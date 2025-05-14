@@ -4,7 +4,9 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.linkedin.com/in/bernardo-zuchetto-subtil-b4518434b/)](https://www.linkedin.com/in/bernardo-zuchetto-subtil-b4518434b/)
+[![LinkedIn - Bernardo Subtil](https://svg.bookmark.style/api?url=https://www.linkedin.com/in/bernardo-zuchetto-subtil-b4518434b/&mode=dark&style=horizontal)](https://www.linkedin.com/in/bernardo-zuchetto-subtil-b4518434b/)
+
+
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
