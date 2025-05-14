@@ -2,11 +2,7 @@
 
 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-[![LinkedIn - Bernardo Subtil](https://svg.bookmark.style/api?url=https://www.linkedin.com/in/bernardo-zuchetto-subtil-b4518434b/&mode=dark&style=horizontal)](https://www.linkedin.com/in/bernardo-zuchetto-subtil-b4518434b/)
-
-
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.youtube.com/@sttk0000)](https://www.youtube.com/@sttk0000)
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
